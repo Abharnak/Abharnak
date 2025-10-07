@@ -8,12 +8,12 @@
 
 ## Check out my Projects 
 ## Data Visualization
-![Health Care Claim Cost](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Healthcare-Claims-Cost-Analysis)
-![Sales Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Superstore-Sales-Analysis)
-![Investor Trend Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Investor-Trend-Analysis)
+[Health Care Claim Cost](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Healthcare-Claims-Cost-Analysis)
+[Sales Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Superstore-Sales-Analysis)
+[Investor Trend Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Investor-Trend-Analysis)
 
 ## Machine Learning
-![Internal Bleeding Detection](https://github.com/Abharnak/Internal-Bleeding-Detection)
+[Internal Bleeding Detection](https://github.com/Abharnak/Internal-Bleeding-Detection)
 
 
 ![Data Visualization](https://img.shields.io/badge/Analytics-Visualization-blue) 
