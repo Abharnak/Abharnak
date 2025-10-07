@@ -9,7 +9,9 @@
 ## Check out my Projects 
 ## Data Visualization
 [Health Care Claim Cost](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Healthcare-Claims-Cost-Analysis)
+
 [Sales Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Superstore-Sales-Analysis)
+
 [Investor Trend Analysis](https://github.com/Abharnak/Data-Visualization-projects/tree/main/Investor-Trend-Analysis)
 
 ## Machine Learning
