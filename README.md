@@ -17,10 +17,10 @@
 ## Machine Learning
 [Internal Bleeding Detection](https://github.com/Abharnak/Internal-Bleeding-Detection)
 
-
+## Skills
 ![Data Visualization](https://img.shields.io/badge/Analytics-Visualization-blue) 
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-green) 
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-blue) 
 ![Excel](https://img.shields.io/badge/Excel-PivotTables-yellow) 
 ![SQL](https://img.shields.io/badge/SQL-Queries-red) 
 ![Python](https://img.shields.io/badge/Python-ML-purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Quries-red)
