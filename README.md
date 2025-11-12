@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI and Software projects.
-- 🌱 I’m currently learning Artificial Intelligence and Data Science.
+- 🔭 I’m currently working on data analytics and AI projects that focus on deriving insights and improving decision-making.
 - 📫 How to reach me: abharnak19@gmail.com
 
-#### Check out my portfolio at https://abharnak.github.io/my-portfolio/
+### Check out my portfolio at https://abharnak.github.io/my-portfolio/
 
 ## Check out my Projects 
 ## Data Visualization
@@ -18,7 +17,7 @@
 [Internal Bleeding Detection](https://github.com/Abharnak/Internal-Bleeding-Detection)
 
 ## Skills
-![Data Visualization](https://img.shields.io/badge/Data Visualization-blue) 
+
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow) 
 ![Excel](https://img.shields.io/badge/Excel-green) 
 ![SQL](https://img.shields.io/badge/SQL-blue) 
@@ -26,4 +25,4 @@
 ![Python](https://img.shields.io/badge/Python-purple)
 
 ## Connect with me
-![Linkedin](https://img.shields.io/badge/Linkedin-red) 
+![Linkedin](https://img.shields.io/badge/Linkedin-blue) 
